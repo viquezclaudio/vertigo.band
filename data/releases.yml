@@ -1,0 +1,34 @@
+enable: true
+title: Our latest work.
+subtitle: Check it out!.
+
+portfolio:
+  - category: Albums
+    url: "https://vertigocr.bandcamp.com/album/one"
+    image: "/img/portfolio/one.jpg"
+    name: One
+    description: >
+      Debut EP, released on May 24th 2018
+  - category: Videos
+#    url: "#"
+#    image: "/img/portfolio/work4.jpg"
+#    name: First Video
+#    description: >
+#      First vertigo video
+clients:
+  - image: "/img/stores/spotify.png"
+    url: "https://open.spotify.com/album/42soo4BfRMjIDQg57AleC7"
+  - image: "/img/stores/itunes.png"
+    url: "https://itunes.apple.com/us/artist/vertigo/1389325327"
+  - image: "/img/stores/amazon.png"
+    url: "https://www.amazon.com/gp/product/B07D9KVPCM/?tag=distrokid06-20"
+  - image: "/img/stores/google.png"
+    url: "https://play.google.com/store/music/album/Vertigo_One?id=Bavs7tgpvx7m4yloufcn7rbgtxe"
+  - image: "/img/stores/napster.png"
+    url: "https://us.napster.com/artist/vertigo-electronicadance/album/one-315107519"
+  - image: "/img/stores/tidal.png"
+    url: "https://tidal.com/browse/album/89346542"
+  - image: "/img/stores/deezer.png"
+    url: "https://www.deezer.com/en/album/64429982"
+  - image: "/img/stores/iheartradio.png"
+    url: "https://www.iheart.com/artist/id-30404192/albums/id-57532751"
