@@ -36,8 +36,14 @@ theme = "airspace-hugo"
 
   [[menu.footer]]
     weight = 3
+    name = "<i class='fa fa-2x fa-youtube'></i> Youtube"
+    url = "https://www.youtube.com/channel/UCc-IEeKqUsJmOylqAdqNGIw"
+
+  [[menu.footer]]
+    weight = 4
     name = "<i class='fa fa-2x fa-at'></i> Bandcamp"
     url = "https://vertigocr.bandcamp.com/"
+
 
 # The site's parameters
 [params]
@@ -68,7 +74,7 @@ theme = "airspace-hugo"
 
   [params.feature]
     enable = true
-    title = "A brief history about us"
+    title = "A brief history"
     content = "Vertigo was formed during 2013 by Alex and Claudio. For work reasons, Alex moved to Poland, which lead to a full stop of the band. In 2017 Alex returned to Costa Rica, and after finding new band members, Vertigo resumed playing and working on original material. Since then Vertigo has been fully alive, doing presentations in different venues all around Costa Rica."
 #    [params.feature.button]
 #      caption = "View Next Dates"
