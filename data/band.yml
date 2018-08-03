@@ -4,31 +4,31 @@ subtitle: >
   Who is Vertigo?
 content:
 
-  - image: "/img/members/claudio.jpg"
+  - image: "img/members/claudio.jpg"
     name: Claudio
     text: >
       Main Guitars & Chorus
     url: "#"
 
-  - image: "/img/members/alex.jpg"
+  - image: "img/members/alex.jpg"
     name: Alex
     text: >
       Lead Vocals
     url: "#"
 
-  - image: "/img/members/vane.jpg"
+  - image: "img/members/vane.jpg"
     name: Vane
     text: >
       Bass
     url: "#"
 
-  - image: "/img/members/donald.jpg"
+  - image: "img/members/donald.jpg"
     name: Donald
     text: >
       Keyboards and Vocals
     url: "#"
 
-  - image: "/img/members/cris.jpg"
+  - image: "img/members/cris.jpg"
     name: Cris
     text: >
       Drums

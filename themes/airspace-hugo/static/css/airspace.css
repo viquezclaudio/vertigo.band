@@ -173,7 +173,7 @@ font header .navbar-default .navbar-nav li a:hover {
 --*/
 #band {
   text-align: center;
-  padding: 90px 0;
+  padding: 90px 10;
 }
 #band .band-item {
   padding-bottom: 30px;
