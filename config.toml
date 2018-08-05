@@ -1,5 +1,5 @@
 title = "Vertigo Band"
-baseURL = "/"
+baseURL = "vertigo.band"
 languageCode = "en-us"
 theme = "airspace-hugo"
 
