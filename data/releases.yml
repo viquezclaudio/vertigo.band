@@ -10,11 +10,12 @@ portfolio:
     description: >
       Debut EP, released on May 24th 2018
   - category: Videos
-#    url: "#"
-#    image: "/img/portfolio/work4.jpg"
-#    name: First Video
-#    description: >
-#      First vertigo video
+    url: "https://youtu.be/xuOs8tz7Tcs"
+    image: "/img/portfolio/FindAWayVideo.jpg"
+    name: Find a Way
+    description: >
+      Find a Way Music Video, our first one.
+
 clients:
   - image: "img/stores/spotify.png"
     url: "https://open.spotify.com/album/42soo4BfRMjIDQg57AleC7"
