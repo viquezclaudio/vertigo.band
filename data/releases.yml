@@ -11,7 +11,7 @@ portfolio:
       Debut EP, released on May 24th 2018
   - category: Videos
     url: "https://youtu.be/xuOs8tz7Tcs"
-    image: "/img/portfolio/FindAWayVideo.jpg"
+    image: "img/portfolio/FindAWayVideo.jpg"
     name: Find a Way
     description: >
       Find a Way Music Video, our first one.
