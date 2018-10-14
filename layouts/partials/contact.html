@@ -7,7 +7,7 @@
     <div class="row">
       <div class="col-md-6 col-sm-12">
         <div class="block">
-          <form>
+          <form name="Contact" netlify>
             <div class="form-group">
               <input type="text" class="form-control" placeholder="{{ .form.name }}">
             </div>
@@ -22,7 +22,7 @@
       </div>
       <div class="col-md-6 col-sm-12">
         <div class="block">
-          <form>
+          <form name="Contact" netlify>
             <div class="form-group-2">
               <textarea class="form-control" rows="3" placeholder="{{ .form.message }}"></textarea>
             </div>
@@ -48,7 +48,7 @@
             </li>
           </ul>
           <ul class="social-icons">
-          {{ range .social }}  
+          {{ range .social }}
             <li>
               <a href="{{ .url }}"><i class="fa {{ .icon }}"></i></a>
             </li>
