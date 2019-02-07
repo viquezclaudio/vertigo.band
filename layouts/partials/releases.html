@@ -10,7 +10,7 @@
                 <ul>
                     <li class="filter" data-filter="all">Everything</li>
                   {{ range .Site.Data.releases.portfolio }}
-                    <li class="filter" data-filter=".{{ .category }}">{{ .category }}</li>
+                    <li class="filter" data-filter=".{{ .category }}">{{ .category }}</li>                    
                   {{ end }}
                 </ul>
               </div>
