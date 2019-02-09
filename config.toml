@@ -19,8 +19,14 @@ theme = "airspace-hugo"
     weight = 4
     name = "Band"
     url = "/band"
+
   [[menu.header]]
     weight = 5
+    name = "Tour"
+    url = "/tour"
+
+  [[menu.header]]
+    weight = 6
     name = "Contact"
     url = "/contact"
 

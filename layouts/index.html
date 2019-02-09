@@ -21,9 +21,12 @@
 		{{ partial "feature.html" . }}
 	{{ end }}
 
-
 	{{ if and .Site.Data.band .Site.Data.band.enable }}
 		{{ partial "band.html" . }}
+	{{ end }}
+
+	{{ if and .Site.Data.tour .Site.Data.tour.enable }}
+		{{ partial "tour.html" . }}
 	{{ end }}
 
 	{{ if and (isset .Site.Params "call") (.Site.Params.call.enable) }}
