@@ -4,11 +4,23 @@ subtitle: Check it out!.
 
 portfolio:
   - category: Albums
+    url: "https://distrokid.com/hyperfollow/vertigo1/far-away"
+    image: "img/portfolio/Universe.jpg"
+    name: Far Away
+    description: >
+      First Single from our second Album
+  - category: Albums
     url: "https://distrokid.com/hyperfollow/vertigo1/duL3"
     image: "img/portfolio/one.jpg"
     name: One
     description: >
       Debut EP, released on May 24th 2018
+  - category: Video
+    url: "https://youtu.be/2wQscrl1eQY"
+    image: "img/portfolio/FarAwayVideo.jpg"
+    name: Far Away
+    description: >
+      Far Away Music Video
   - category: Video
     url: "https://youtu.be/xuOs8tz7Tcs"
     image: "img/portfolio/FindAWayVideo.jpg"
