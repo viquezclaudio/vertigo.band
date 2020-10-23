@@ -64,14 +64,14 @@ theme = "airspace-hugo"
 
   [params.slider]
     enable = true
-    title = "Vertigo - Far Away"
+    title = "Vertigo - Universe"
     subtitle = "Available in all major digital platforms."
 
   [params.wrapper]
     enable = true
-    title = "Vertigo - Far Away "
-    italic = "Released on March 15th 2020"
-    paragraph = "We are really excited to announce that our first single FAR AWAY from our second album UNIVERSE was released to all major digital platforms on March 15, 2020. The album was recorded at Jungle Sound Studio and produced by the multiple times ACAM winner Alberto Ortiz. The video was recorded and produced by Mor'Du Productions"
+    title = "Vertigo - Universe "
+    italic = "Released on October 18th 2020"
+    paragraph = "We are really excited to announce that our second album UNIVERSE  was released to all major digital platforms. The album was recorded at Jungle Sound Studio and produced by the multiple times ACAM winner Alberto Ortiz. The main single of the album, RUNNING AWAY, is accompanied by a video produced by Mor'Du Productions"
 
   [params.blog]
     enable = true

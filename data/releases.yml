@@ -4,17 +4,23 @@ subtitle: Check it out!.
 
 portfolio:
   - category: Albums
-    url: "https://distrokid.com/hyperfollow/vertigo1/far-away"
+    url: "https://distrokid.com/hyperfollow/vertigo1/universe"
     image: "img/portfolio/Universe.jpg"
-    name: Far Away
+    name: Universe
     description: >
-      First Single from our second Album
+      Our Second Album
   - category: Albums
     url: "https://distrokid.com/hyperfollow/vertigo1/duL3"
     image: "img/portfolio/one.jpg"
     name: One
     description: >
       Debut EP, released on May 24th 2018
+  - category: Video
+    url: "https://www.youtube.com/watch?v=1JYJTzidwAo"
+    image: "img/portfolio/RunningAwayVideo.jpg"
+    name: Far Away
+    description: >
+      Running Away Music Video
   - category: Video
     url: "https://youtu.be/2wQscrl1eQY"
     image: "img/portfolio/FarAwayVideo.jpg"
@@ -33,13 +39,6 @@ portfolio:
     name: Vertigo live at OktoberCR 2018
     description: >
         Take me to the limit Live
-  - category: Video
-    url: "https://youtu.be/fYiWIJS31_k"
-    image: "img/portfolio/BrokenRiver.jpg"
-    name: Broken River Live in Studio
-    description: >
-        Broken River live from Studio
-
 
 clients:
   - image: "img/stores/spotify.png"
