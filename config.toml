@@ -1,110 +1,33 @@
-title = "Vertigo Band"
-baseURL = "/"
 languageCode = "en-us"
-theme = "airspace-hugo"
-
-[menu]
-
-  [[menu.header]]
-  weight = 2
-  name = "News"
-  url = "/news"
-
-  [[menu.header]]
-    weight = 3
-    name = "Releases"
-    url = "/releases"
-
-  [[menu.header]]
-    weight = 4
-    name = "Band"
-    url = "/band"
-
-  [[menu.header]]
-    weight = 5
-    name = "Tour"
-    url = "/tour"
-
-  [[menu.header]]
-    weight = 6
-    name = "Contact"
-    url = "/contact"
-
-  [[menu.footer]]
-   weight = 1
-   name = "<i class='fa fa-2x fa-facebook'></i> Facebook"
-   url = "https://www.facebook.com/VertigobandaCR/"
-
-  [[menu.footer]]
-    weight = 2
-    name = "<i class='fa fa-2x fa-instagram'></i> Instagram"
-    url = "https://www.instagram.com/vertigobandacr/"
-
-  [[menu.footer]]
-    weight = 3
-    name = "<i class='fa fa-2x fa-youtube'></i> Youtube"
-    url = "https://www.youtube.com/channel/UCc-IEeKqUsJmOylqAdqNGIw"
-
-  [[menu.footer]]
-    weight = 4
-    name = "<i class='fa fa-2x fa-at'></i> Bandcamp"
-    url = "https://vertigocr.bandcamp.com/"
+title = "Vertigo Band"
+baseURL = "https://vertigo.band"
+theme = "massively"
+googleanalytics = "UA-127408872-1"
+disqusShortname = ""
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 
 
-# The site's parameters
+
 [params]
+  # set below parameter to define a favicon
+  # favicon = "favicon.ico"
+  # set to change date format
+  # dateFormat = "2.1.2006"
+  backgroundPath = "images/bg.jpg"
 
-  # If you want to remove the copyright text you need a Themefisher license.
-  # This license is offered with a 50% discount for all Hugo users.
-  # For information see https://github.com/gohugoio/hugoThemes/issues/260
+# Below parameters can be set to override default post settings
+# [params.posts]
+#     folderName = "post"
+#     pageSize = "6"
+#     featuredPost = "true"
+#     paginationPages = 2
+#     showFirstLast = false
+ 
+[languages]
+[languages.en]
+  languageName = "English"
+[languages.es]
+  languageName = "Español"
+  title = "Vertigo - Versión Español"
 
-  date_format = "6 January 2006"
 
-  home = "Home"
-
-  [params.slider]
-    enable = true
-    title = "Vertigo - Universe"
-    subtitle = "Available in all major digital platforms."
-
-  [params.wrapper]
-    enable = true
-    title = "Vertigo - Universe "
-    italic = "Released on October 18th 2020"
-    paragraph = "We are really excited to announce that our second album UNIVERSE  was released to all major digital platforms. The album was recorded at Jungle Sound Studio and produced by the multiple times ACAM winner Alberto Ortiz. The main single of the album, RUNNING AWAY, is accompanied by a video produced by Mor'Du Productions"
-
-  [params.blog]
-    enable = true
-    title = "Get The Latest On What We're doing"
-    subtitle = "Rock with us, anytime and anywhere"
-
-  [params.feature]
-    enable = true
-    title = "A brief history"
-    content = "Vertigo was formed during 2013 by Alex and Claudio. For work reasons, Alex moved to Poland, which lead to a full stop of the band. In 2017 Alex returned to Costa Rica, and after finding new band members, Vertigo resumed playing and working on original material. Since then Vertigo has been fully alive, doing presentations in different venues all around Costa Rica."
-#    [params.feature.button]
-#      caption = "View Next Dates"
-#      url = "#"
-
-  [params.call]
-    enable = true
-    title = "Follow us on social media."
-    paragraph = "To get the most up to date news and know what we are doing folow us on social media "
-
-  [params.contact]
-    enable = true
-    title = "Drop us a note"
-    subtitle = "Don’t just take our word for it. Check out some of our latest work."
-    [params.contact.form]
-      name = "Your name"
-      email = "Your email"
-      subject = "Your subject"
-      message = "Your message"
-      button = "Send message"
-    [params.contact.box]
-      title = "Contact Info"
-      address = "San Jose, Costa Rica"
-      email = "Email: vertigobandacr@gmail.com"
-      phone = "Phone: +506 87 09 11 99"
-#    [params.contact.gmaps]
-#      title = "We Also Count in Google Maps"
