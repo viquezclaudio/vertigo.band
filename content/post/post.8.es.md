@@ -1,6 +1,6 @@
 +++
 title = 'Vertigo en Fornite: Rock & Royale Radio Station'
-slug = 'lorem-ipsum'
+slug = 'post6'
 image = 'images/Fortnite.jpg'
 date = "2022-06-15T00:00:00"
 description = 'Funky Town disponible en Fortnite!'
